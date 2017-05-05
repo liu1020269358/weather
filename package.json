@@ -1,6 +1,6 @@
 {
   "name": "liu-weather",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "这是一个查询天气的命令行工具(练习用)",
   "main": "index.js",
   "bin": {
