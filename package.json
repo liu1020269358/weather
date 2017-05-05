@@ -1,0 +1,14 @@
+{
+  "name": "liu-weather",
+  "version": "1.0.0",
+  "description": "这是一个查询天气的命令行工具(练习用)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weather"
+  ],
+  "author": "liuyuchao",
+  "license": "ISC"
+}
